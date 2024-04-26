@@ -1,0 +1,1774 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2006</field>
+            <field name="Value">8300000.000000001</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Year">2005</field>
+            <field name="Value">40100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2007</field>
+            <field name="Value">161000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Albania</field>
+            <field name="Year">2000</field>
+            <field name="Value">102200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2005</field>
+            <field name="Value">465000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Algeria</field>
+            <field name="Year">2001</field>
+            <field name="Value">368500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Angola</field>
+            <field name="Year">2010</field>
+            <field name="Value">200000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Angola</field>
+            <field name="Year">2001</field>
+            <field name="Value">68000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Argentina</field>
+            <field name="Year">1990</field>
+            <field name="Value">1254700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Armenia</field>
+            <field name="Year">2008</field>
+            <field name="Value">333000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Azerbaijan</field>
+            <field name="Year">1994</field>
+            <field name="Value">14000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2014</field>
+            <field name="Value">70000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2005</field>
+            <field name="Value">50000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bangladesh</field>
+            <field name="Year">2001</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2008</field>
+            <field name="Value">800000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">2001</field>
+            <field name="Value">38500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belarus</field>
+            <field name="Year">1998</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Year">2019</field>
+            <field name="Value">8600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Year">2003</field>
+            <field name="Value">45000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Belize</field>
+            <field name="Year">1988</field>
+            <field name="Value">52000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Benin</field>
+            <field name="Year">2000</field>
+            <field name="Value">60000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bhutan</field>
+            <field name="Year">2006</field>
+            <field name="Value">17500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Year">2002</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Year">2001</field>
+            <field name="Value">40000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bolivia</field>
+            <field name="Year">1995</field>
+            <field name="Value">18000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bosnia and Herzegovina</field>
+            <field name="Year">2006</field>
+            <field name="Value">901500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2020</field>
+            <field name="Value">470000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2018</field>
+            <field name="Value">136000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2011</field>
+            <field name="Value">1512900000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">2001</field>
+            <field name="Value">3000000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">1999</field>
+            <field name="Value">1174400000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">1998</field>
+            <field name="Value">26572200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">1997</field>
+            <field name="Value">1469600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Brazil</field>
+            <field name="Year">1996</field>
+            <field name="Value">705000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">2004</field>
+            <field name="Value">280000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Bulgaria</field>
+            <field name="Year">1993</field>
+            <field name="Value">21000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Burkina Faso</field>
+            <field name="Year">2006</field>
+            <field name="Value">290000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">CÃ´te d'Ivoire</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">CÃ´te d'Ivoire</field>
+            <field name="Year">1997</field>
+            <field name="Value">684000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cabo Verde</field>
+            <field name="Year">2019</field>
+            <field name="Value">25000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cabo Verde</field>
+            <field name="Year">1995</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cambodia</field>
+            <field name="Year">2019</field>
+            <field name="Value">75000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cambodia</field>
+            <field name="Year">1995</field>
+            <field name="Value">1500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cambodia</field>
+            <field name="Year">1992</field>
+            <field name="Value">12600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Year">2018</field>
+            <field name="Value">136000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cameroon</field>
+            <field name="Year">2000</field>
+            <field name="Value">95000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Chad</field>
+            <field name="Year">2010</field>
+            <field name="Value">303000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">2022</field>
+            <field name="Value">1668990000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">2002</field>
+            <field name="Value">1430000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">2001</field>
+            <field name="Value">325000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">2000</field>
+            <field name="Value">5653000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">China</field>
+            <field name="Year">1997</field>
+            <field name="Value">3970000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">2006</field>
+            <field name="Value">683500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">1998</field>
+            <field name="Value">300000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">1997</field>
+            <field name="Value">150000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Colombia</field>
+            <field name="Year">1994</field>
+            <field name="Value">330700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Comoros</field>
+            <field name="Year">2019</field>
+            <field name="Value">74000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo</field>
+            <field name="Year">1997</field>
+            <field name="Value">42500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Congo</field>
+            <field name="Year">1995</field>
+            <field name="Value">4600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Costa Rica</field>
+            <field name="Year">1989</field>
+            <field name="Value">3000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Year">1994</field>
+            <field name="Value">366000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Cuba</field>
+            <field name="Year">1993</field>
+            <field name="Value">5000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Dem. People's Rep. Korea</field>
+            <field name="Year">2008</field>
+            <field name="Value">400000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Dem. Rep. Congo</field>
+            <field name="Year">2022</field>
+            <field name="Value">21000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Dem. Rep. Congo</field>
+            <field name="Year">2000</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Dem. Rep. Congo</field>
+            <field name="Year">1987</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Djibouti</field>
+            <field name="Year">2016</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (excluding high income)</field>
+            <field name="Year">2022</field>
+            <field name="Value">1890690000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (excluding high income)</field>
+            <field name="Year">2002</field>
+            <field name="Value">1439100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (excluding high income)</field>
+            <field name="Year">2001</field>
+            <field name="Value">325000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (excluding high income)</field>
+            <field name="Year">2000</field>
+            <field name="Value">5653000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (excluding high income)</field>
+            <field name="Year">1997</field>
+            <field name="Value">3980000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (IDA &amp; IBRD)</field>
+            <field name="Year">2022</field>
+            <field name="Value">1890690000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (IDA &amp; IBRD)</field>
+            <field name="Year">2002</field>
+            <field name="Value">1439100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (IDA &amp; IBRD)</field>
+            <field name="Year">2001</field>
+            <field name="Value">325000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (IDA &amp; IBRD)</field>
+            <field name="Year">2000</field>
+            <field name="Value">5653000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">East Asia &amp; Pacific (IDA &amp; IBRD)</field>
+            <field name="Year">1997</field>
+            <field name="Value">3980000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Year">2005</field>
+            <field name="Value">892000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Egypt</field>
+            <field name="Year">1998</field>
+            <field name="Value">767600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">1998</field>
+            <field name="Value">367000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">El Salvador</field>
+            <field name="Year">1997</field>
+            <field name="Value">500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Eswatini</field>
+            <field name="Year">1998</field>
+            <field name="Value">17200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Europe &amp; Central Asia (excluding high income)</field>
+            <field name="Year">1997</field>
+            <field name="Value">4603000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Year">2017</field>
+            <field name="Value">57410000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Year">2013</field>
+            <field name="Value">17800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Fiji</field>
+            <field name="Year">1994</field>
+            <field name="Value">21000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Gabon</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Gabon</field>
+            <field name="Year">2007</field>
+            <field name="Value">93400000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">2006</field>
+            <field name="Value">94000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">1995</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Georgia</field>
+            <field name="Year">1993</field>
+            <field name="Value">11600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2018</field>
+            <field name="Value">42000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2008</field>
+            <field name="Value">900000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">2007</field>
+            <field name="Value">120000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">1997</field>
+            <field name="Value">10100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ghana</field>
+            <field name="Year">1996</field>
+            <field name="Value">420000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Grenada</field>
+            <field name="Year">1989</field>
+            <field name="Value">6100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guatemala</field>
+            <field name="Year">1999</field>
+            <field name="Value">33299999.999999996</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guatemala</field>
+            <field name="Year">1998</field>
+            <field name="Value">940000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea</field>
+            <field name="Year">1995</field>
+            <field name="Value">45000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guinea-Bissau</field>
+            <field name="Year">1989</field>
+            <field name="Value">3000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Guyana</field>
+            <field name="Year">1991</field>
+            <field name="Value">16500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Haiti</field>
+            <field name="Year">1998</field>
+            <field name="Value">1000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Honduras</field>
+            <field name="Year">1996</field>
+            <field name="Value">13100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">IBRD only</field>
+            <field name="Year">1997</field>
+            <field name="Value">11049600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">2001</field>
+            <field name="Value">1248500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">1997</field>
+            <field name="Value">656700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">1996</field>
+            <field name="Value">890500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">1995</field>
+            <field name="Value">379400000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">India</field>
+            <field name="Year">1994</field>
+            <field name="Value">96700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">2017</field>
+            <field name="Value">385290000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">2016</field>
+            <field name="Value">204000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">1996</field>
+            <field name="Value">2637000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">1995</field>
+            <field name="Value">1716000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">1994</field>
+            <field name="Value">1119000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Indonesia</field>
+            <field name="Year">1993</field>
+            <field name="Value">250000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran</field>
+            <field name="Year">2008</field>
+            <field name="Value">370000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran</field>
+            <field name="Year">2005</field>
+            <field name="Value">350000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran</field>
+            <field name="Year">1996</field>
+            <field name="Value">23000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iraq</field>
+            <field name="Year">2015</field>
+            <field name="Value">30000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iraq</field>
+            <field name="Year">2013</field>
+            <field name="Value">100000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Iraq</field>
+            <field name="Year">2003</field>
+            <field name="Value">100000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Year">2022</field>
+            <field name="Value">17590000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Year">2000</field>
+            <field name="Value">558000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Jordan</field>
+            <field name="Year">1997</field>
+            <field name="Value">800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kazakhstan</field>
+            <field name="Year">1999</field>
+            <field name="Value">127500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kazakhstan</field>
+            <field name="Year">1997</field>
+            <field name="Value">1370000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kazakhstan</field>
+            <field name="Year">1994</field>
+            <field name="Value">30000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Year">2016</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Year">2007</field>
+            <field name="Value">390000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kenya</field>
+            <field name="Year">1999</field>
+            <field name="Value">98000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyz Republic</field>
+            <field name="Year">1997</field>
+            <field name="Value">88000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Kyrgyz Republic</field>
+            <field name="Year">1996</field>
+            <field name="Value">12000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao PDR</field>
+            <field name="Year">2002</field>
+            <field name="Value">9100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Lao PDR</field>
+            <field name="Year">1996</field>
+            <field name="Value">92000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Late-demographic dividend</field>
+            <field name="Year">2001</field>
+            <field name="Value">4066700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Late-demographic dividend</field>
+            <field name="Year">2000</field>
+            <field name="Value">8148300000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Late-demographic dividend</field>
+            <field name="Year">1997</field>
+            <field name="Value">10424100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latin America &amp; Caribbean</field>
+            <field name="Year">1998</field>
+            <field name="Value">28315200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latin America &amp; Caribbean (excluding high income)</field>
+            <field name="Year">1998</field>
+            <field name="Value">28305200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Latin America &amp; Caribbean (IDA &amp; IBRD)</field>
+            <field name="Year">1998</field>
+            <field name="Value">28315200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Lebanon</field>
+            <field name="Year">1994</field>
+            <field name="Value">50000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Lesotho</field>
+            <field name="Year">2001</field>
+            <field name="Value">27000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Liberia</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year">2004</field>
+            <field name="Value">12600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year">1996</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Madagascar</field>
+            <field name="Year">1994</field>
+            <field name="Value">5000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">2006</field>
+            <field name="Value">30500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">2002</field>
+            <field name="Value">25000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">1999</field>
+            <field name="Value">4700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malawi</field>
+            <field name="Year">1995</field>
+            <field name="Value">8000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">1995</field>
+            <field name="Value">158000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">1994</field>
+            <field name="Value">628000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">1990</field>
+            <field name="Value">870000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Malaysia</field>
+            <field name="Year">1988</field>
+            <field name="Value">78500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Year">2022</field>
+            <field name="Value">30000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Maldives</field>
+            <field name="Year">2005</field>
+            <field name="Value">40000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mali</field>
+            <field name="Year">2009</field>
+            <field name="Value">383000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritania</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritania</field>
+            <field name="Year">2001</field>
+            <field name="Value">48000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">2003</field>
+            <field name="Value">1700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">2001</field>
+            <field name="Value">338200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mauritius</field>
+            <field name="Year">1989</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">2022</field>
+            <field name="Value">62000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">2017</field>
+            <field name="Value">946600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">1998</field>
+            <field name="Value">108000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">1996</field>
+            <field name="Value">687000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">1995</field>
+            <field name="Value">600000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mexico</field>
+            <field name="Year">1990</field>
+            <field name="Value">2108000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Mongolia</field>
+            <field name="Year">1995</field>
+            <field name="Value">4500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Montenegro</field>
+            <field name="Year">2005</field>
+            <field name="Value">147000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Morocco</field>
+            <field name="Year">2000</field>
+            <field name="Value">2110000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Myanmar</field>
+            <field name="Year">2018</field>
+            <field name="Value">119000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Myanmar</field>
+            <field name="Year">2017</field>
+            <field name="Value">1618600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Namibia</field>
+            <field name="Year">1995</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nepal</field>
+            <field name="Year">2004</field>
+            <field name="Value">5000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nepal</field>
+            <field name="Year">2002</field>
+            <field name="Value">4900000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Year">2015</field>
+            <field name="Value">320000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Year">2002</field>
+            <field name="Value">49140000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nicaragua</field>
+            <field name="Year">2001</field>
+            <field name="Value">33000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Niger</field>
+            <field name="Year">2001</field>
+            <field name="Value">15800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2022</field>
+            <field name="Value">100230000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2006</field>
+            <field name="Value">759050000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2003</field>
+            <field name="Value">121000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">2000</field>
+            <field name="Value">27000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">1998</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Nigeria</field>
+            <field name="Year">1997</field>
+            <field name="Value">22000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">North Macedonia</field>
+            <field name="Year">2001</field>
+            <field name="Value">403500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Pakistan</field>
+            <field name="Year">2004</field>
+            <field name="Value">907500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Pakistan</field>
+            <field name="Year">1994</field>
+            <field name="Value">450000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2015</field>
+            <field name="Value">273700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2002</field>
+            <field name="Value">8000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2001</field>
+            <field name="Value">46300000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">2000</field>
+            <field name="Value">9800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">1998</field>
+            <field name="Value">17000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">1994</field>
+            <field name="Value">1635000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Peru</field>
+            <field name="Year">1990</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">2022</field>
+            <field name="Value">221700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">2007</field>
+            <field name="Value">761000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Philippines</field>
+            <field name="Year">1994</field>
+            <field name="Value">9500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2008</field>
+            <field name="Value">268000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">2003</field>
+            <field name="Value">38000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Romania</field>
+            <field name="Year">1998</field>
+            <field name="Value">668000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">2000</field>
+            <field name="Value">283100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1999</field>
+            <field name="Value">74000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1998</field>
+            <field name="Value">36800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1997</field>
+            <field name="Value">2046500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1996</field>
+            <field name="Value">210900000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1995</field>
+            <field name="Value">189100000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1994</field>
+            <field name="Value">228800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1993</field>
+            <field name="Value">45500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1992</field>
+            <field name="Value">7500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Russia</field>
+            <field name="Year">1991</field>
+            <field name="Value">4000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Year">2007</field>
+            <field name="Value">100000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Rwanda</field>
+            <field name="Year">2005</field>
+            <field name="Value">20000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">SÃ£o TomÃ© and Principe</field>
+            <field name="Year">1989</field>
+            <field name="Value">1000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Year">2017</field>
+            <field name="Value">57410000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Samoa</field>
+            <field name="Year">1997</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Senegal</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Senegal</field>
+            <field name="Year">1997</field>
+            <field name="Value">159700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">2006</field>
+            <field name="Value">1937390000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Serbia</field>
+            <field name="Year">1997</field>
+            <field name="Value">1080000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Seychelles</field>
+            <field name="Year">2011</field>
+            <field name="Value">38260000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Seychelles</field>
+            <field name="Year">1997</field>
+            <field name="Value">25000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Solomon Islands</field>
+            <field name="Year">1989</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Somalia</field>
+            <field name="Year">2016</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">2022</field>
+            <field name="Value">198450000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">2016</field>
+            <field name="Value">229820000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">2005</field>
+            <field name="Value">15000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">1997</field>
+            <field name="Value">260000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Africa</field>
+            <field name="Year">1994</field>
+            <field name="Value">316800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia</field>
+            <field name="Year">2001</field>
+            <field name="Value">1258500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia</field>
+            <field name="Year">1997</field>
+            <field name="Value">881700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia</field>
+            <field name="Year">1996</field>
+            <field name="Value">940500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia</field>
+            <field name="Year">1995</field>
+            <field name="Value">379400000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia</field>
+            <field name="Year">1994</field>
+            <field name="Value">546700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia (IDA &amp; IBRD)</field>
+            <field name="Year">2001</field>
+            <field name="Value">1258500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia (IDA &amp; IBRD)</field>
+            <field name="Year">1997</field>
+            <field name="Value">881700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia (IDA &amp; IBRD)</field>
+            <field name="Year">1996</field>
+            <field name="Value">940500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia (IDA &amp; IBRD)</field>
+            <field name="Year">1995</field>
+            <field name="Value">379400000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">South Asia (IDA &amp; IBRD)</field>
+            <field name="Year">1994</field>
+            <field name="Value">546700000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">1997</field>
+            <field name="Value">225000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">1996</field>
+            <field name="Value">50000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">1993</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sri Lanka</field>
+            <field name="Year">1989</field>
+            <field name="Value">18000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">St. Vincent and the Grenadines</field>
+            <field name="Year">1985</field>
+            <field name="Value">146900000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sudan</field>
+            <field name="Year">2004</field>
+            <field name="Value">159000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Sudan</field>
+            <field name="Year">2003</field>
+            <field name="Value">177000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Syrian Arab Republic</field>
+            <field name="Year">2015</field>
+            <field name="Value">276000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Syrian Arab Republic</field>
+            <field name="Year">2001</field>
+            <field name="Value">161000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TÃ¼rkiye</field>
+            <field name="Year">2005</field>
+            <field name="Value">6550000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">TÃ¼rkiye</field>
+            <field name="Year">1994</field>
+            <field name="Value">74000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tajikistan</field>
+            <field name="Year">2001</field>
+            <field name="Value">5000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania</field>
+            <field name="Year">2016</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania</field>
+            <field name="Year">2005</field>
+            <field name="Value">53000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania</field>
+            <field name="Year">2001</field>
+            <field name="Value">122500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania</field>
+            <field name="Year">1996</field>
+            <field name="Value">5200000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tanzania</field>
+            <field name="Year">1995</field>
+            <field name="Value">25000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">1993</field>
+            <field name="Value">2400000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">1992</field>
+            <field name="Value">1600000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">1991</field>
+            <field name="Value">192000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Thailand</field>
+            <field name="Year">1990</field>
+            <field name="Value">60000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">The Gambia</field>
+            <field name="Year">2012</field>
+            <field name="Value">700000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">The Gambia</field>
+            <field name="Year">2007</field>
+            <field name="Value">35000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">The Gambia</field>
+            <field name="Year">2001</field>
+            <field name="Value">6600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tunisia</field>
+            <field name="Year">2006</field>
+            <field name="Value">2250000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Tunisia</field>
+            <field name="Year">2002</field>
+            <field name="Value">277000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">1999</field>
+            <field name="Value">33500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Uganda</field>
+            <field name="Year">1998</field>
+            <field name="Value">30000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">2011</field>
+            <field name="Value">1320000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">1998</field>
+            <field name="Value">50000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">1997</field>
+            <field name="Value">8500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">1993</field>
+            <field name="Value">72000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Ukraine</field>
+            <field name="Year">1992</field>
+            <field name="Value">10600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Upper middle income</field>
+            <field name="Year">1997</field>
+            <field name="Value">10346600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Uzbekistan</field>
+            <field name="Year">1997</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Uzbekistan</field>
+            <field name="Year">1996</field>
+            <field name="Value">320000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Uzbekistan</field>
+            <field name="Year">1992</field>
+            <field name="Value">2500000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Year">2013</field>
+            <field name="Value">17800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Vanuatu</field>
+            <field name="Year">1992</field>
+            <field name="Value">17000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela</field>
+            <field name="Year">2001</field>
+            <field name="Value">100300000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela</field>
+            <field name="Year">1998</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela</field>
+            <field name="Year">1997</field>
+            <field name="Value">12000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Venezuela</field>
+            <field name="Year">1991</field>
+            <field name="Value">2010000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Year">2009</field>
+            <field name="Value">267000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Year">2003</field>
+            <field name="Value">230000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Viet Nam</field>
+            <field name="Year">1995</field>
+            <field name="Value">256000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">West Bank and Gaza</field>
+            <field name="Year">2000</field>
+            <field name="Value">23800000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">West Bank and Gaza</field>
+            <field name="Year">1995</field>
+            <field name="Value">65000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Yemen</field>
+            <field name="Year">2016</field>
+            <field name="Value">28000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Yemen</field>
+            <field name="Year">2006</field>
+            <field name="Value">213600000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Yemen</field>
+            <field name="Year">1990</field>
+            <field name="Value">10000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+        <record>
+            <field name="Country or Area">Zambia</field>
+            <field name="Year">2010</field>
+            <field name="Value">489000000</field>
+            <field name="Value Footnotes"></field>
+        </record>
+    </data>
+</ROOT>
